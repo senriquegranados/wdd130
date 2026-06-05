@@ -71,5 +71,8 @@ h1{
 .hero article img {
     float: right;
     width: 125px;
+    border: #7275f1;
+    margin: auto;
+    box-shadow: inset;
 }
 
