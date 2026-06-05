@@ -20,7 +20,7 @@ header {
 
 body {
     font-family: var(--body-font);
-    color: var(--accent1-color);
+    color: var(--secondary-color);
 }
 
 header, main, footer {
@@ -47,7 +47,6 @@ nav, p,section, article {
 }
 
 .hero image {
-    position: ;
     display: block;
     width: 100%;
     height: auto;
