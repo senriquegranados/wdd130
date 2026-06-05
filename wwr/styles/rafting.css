@@ -47,6 +47,7 @@ nav, p,section, article {
 }
 
 .hero image {
+    position: center-align;
     display: block;
     width: 100%;
     height: auto;
@@ -63,7 +64,7 @@ h1{
     color: bisque;
 }
 
-.article {
+.hero article {
     position: absolute;
 
 }
@@ -73,6 +74,6 @@ h1{
     width: 125px;
     border: #7275f1;
     margin: auto;
-    box-shadow: inset;
+    box-shadow: 30px;
 }
 
